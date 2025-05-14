@@ -1,0 +1,30 @@
+{
+  "contact_onlyName": {
+    "name": "Jane Smith"
+  },
+  "contact_full_1": {
+    "name": "Jan Pepik",
+    "id": "12345678",
+    "vat": "CZ123456789",
+    "phone": "+420955345711",
+    "email": "janpepik@example.com",
+    "web": "https://janpepik.com",
+    "street": "Kounicova 123",
+    "city": "Brno",
+    "zipCode": "10001",
+    "country": "Czech Republic"
+  },
+  "contact_full_2": {
+    "name": "Franz Huber",
+    "id": "78945612",
+    "vat": "ATU12345678",
+    "phone": "+43 660 1234567",
+    "email": "franz.huber@example.at",
+    "web": "https://franzhuber.at",
+    "street": "Mariahilfer Straße 25",
+    "city": "Wien",
+    "zipCode": "1070",
+    "country": "Austria",
+    "territory": "Wien"
+  }
+}
